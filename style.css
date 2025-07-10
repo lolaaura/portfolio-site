@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 /* Reset default styles */
 * {
   margin: 0;
@@ -226,45 +230,48 @@ footer strong {
 .btn-resume:hover {
   background-color: #1e874b;
 }
-/* 🔁 Responsive Layout for Mobile Devices */
+/* ===== Mobile Responsive Styling ===== */
 @media (max-width: 768px) {
-  body {
-    padding: 10px;
-    font-size: 16px;
-  }
-
-  header h1 {
-    font-size: 24px;
+  header {
+    padding: 15px 0;
   }
 
   nav ul {
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
+    margin-top: 10px;
   }
 
-  nav ul li a {
-    font-size: 16px;
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 20px;
   }
 
   section {
-    margin-bottom: 40px;
+    padding: 20px 10px;
+    text-align: center;
   }
 
   .project-list {
     flex-direction: column;
-    gap: 20px;
+    align-items: center;
+  }
+
+  .project-card img {
+    max-width: 90%;
+    height: auto;
   }
 
   .project-card {
-    width: 100%;
+    width: 95%;
+    margin-bottom: 20px;
   }
 
   footer {
     font-size: 14px;
-  }
-
-  .btn-resume {
-    width: 100%;
-    text-align: center;
+    padding: 15px;
   }
 }
