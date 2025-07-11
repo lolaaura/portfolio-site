@@ -1,0 +1,43 @@
+Lola Aura
+Front-End Web Developer
+
+📍 Yaba, Lagos, Nigeria  
+📧 aurabylola@gmail.com  
+🌐 github.com/lolaaura  
+
+---
+
+Objective:
+A passionate front-end developer with a keen eye for design, aiming to build beautiful, accessible, and responsive websites and applications.
+
+---
+
+Skills:
+- HTML5, CSS3, JavaScript
+- Responsive Web Design
+- Git & GitHub
+- Bootstrap & Tailwind
+- Visual Studio Code
+- Website Deployment (GitHub Pages & Netlify)
+
+---
+
+Projects:
+• BrainFlip Memory Game 🧠  
+  A fun memory-matching game with sound, confetti, timer, and responsive design.  
+  Live: https://lolaaura.github.io/brainflip-memory-game/
+
+• Personal Portfolio Website 💻  
+  A professional and mobile-friendly portfolio showcasing my work and skills.  
+  Live: [insert your Netlify link here]
+
+---
+
+Education:
+Front-End Development Certification  
+GoMyCode Nigeria — 2025
+
+---
+
+References:
+Available upon request
