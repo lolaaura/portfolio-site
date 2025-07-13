@@ -1,43 +1,48 @@
-Lola Aura
-Front-End Web Developer
+Lola Aura  
+Front-End Web Developer  
 
 📍 Yaba, Lagos, Nigeria  
 📧 aurabylola@gmail.com  
-🌐 github.com/lolaaura  
+🌐 GitHub: https://github.com/lolaaura  
+🌐 Portfolio:  https://lolaaura-portfolio.netlify.app  
 
 ---
 
-Objective:
-A passionate front-end developer with a keen eye for design, aiming to build beautiful, accessible, and responsive websites and applications.
+🎯 Objective  
+A passionate front-end developer with a keen eye for design, looking to create engaging and accessible web experiences.
 
 ---
 
-Skills:
-- HTML5, CSS3, JavaScript
-- Responsive Web Design
-- Git & GitHub
-- Bootstrap & Tailwind
-- Visual Studio Code
-- Website Deployment (GitHub Pages & Netlify)
+🛠️ Skills  
+- HTML5, CSS3, JavaScript  
+- Responsive Web Design  
+- Git & GitHub  
+- Bootstrap  
+- Version Control  
+- Website Deployment (GitHub Pages, Netlify)
 
 ---
 
-Projects:
-• BrainFlip Memory Game 🧠  
-  A fun memory-matching game with sound, confetti, timer, and responsive design.  
-  Live: https://lolaaura.github.io/brainflip-memory-game/
+💼 Projects  
 
-• Personal Portfolio Website 💻  
-  A professional and mobile-friendly portfolio showcasing my work and skills.  
-  Live: [insert your Netlify link here]
+**BrainFlip Memory Game 🧠**  
+A fun and interactive card-flipping memory game with timer, sound effects, and confetti. Built using HTML, CSS, and JavaScript.  
+Live: https://lolaaura.github.io/brainflip-memory-game/  
 
----
-
-Education:
-Front-End Development Certification  
-GoMyCode Nigeria — 2025
+**Personal Portfolio Website**  
+A responsive portfolio website showcasing my projects and skills. Features include a contact section and certificate display.  
+Live:  https://lolaaura-portfolio.netlify.app  
 
 ---
 
-References:
-Available upon request
+🎓 Education  
+**Front-End Development Certification** – GOMYCODE  
+Completed: 2025  
+
+---
+
+📞 Contact  
+Email: aurabylola@gmail.com  
+GitHub: https://github.com/lolaaura  
+Portfolio: https://lolaaura-portfolio.netlify.app  
+
